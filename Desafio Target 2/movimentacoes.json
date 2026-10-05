@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "data": "05/10/2026 10:01:23",
+    "codigoProduto": 101,
+    "tipo": "ENTRADA",
+    "quantidade": 20,
+    "descricao": "Compra",
+    "estoqueFinal": 170
+  }
+]

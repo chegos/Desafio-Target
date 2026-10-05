@@ -1,0 +1,9 @@
+{
+    "valor_original": 536.0,
+    "vencimento": "02/02/2026",
+    "data_calculo": "05/10/2026",
+    "dias_em_atraso": 245,
+    "taxa_diaria": "2,5%",
+    "juros": 3283.0,
+    "valor_total": 3819.0
+}
